@@ -1,4 +1,4 @@
-# Text-Wrapper-
+# Text-Wrapper
 Mimicking soft text wrapping feature of text editors
 
   ```
